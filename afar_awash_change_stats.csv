@@ -1,0 +1,6 @@
+system:index,Area_Hectares,Area_SqKm,Change_Category,Class_ID,.geo
+0,101777.0965651472,1017.7709656514721,Strong Decrease (< -2.5 dB): Water Loss / Harvested,1,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,575878.5494628564,5758.785494628563,Moderate Decrease (-2.5 to -1.0 dB): Drying,2,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,8113440.475274743,81134.40475274743,Stable (-1.0 to +1.0 dB): Unchanged,3,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,610070.9436578758,6100.709436578758,Moderate Increase (+1.0 to +2.5 dB): Crop Growth,4,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,115742.51842719759,1157.425184271976,Strong Increase (> +2.5 dB): New Irrigation / Wetting,5,"{""type"":""MultiPoint"",""coordinates"":[]}"
